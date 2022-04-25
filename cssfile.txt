@@ -1,0 +1,54 @@
+<p><style>
+h1 {text-align:left;
+margin:70px;}
+p {text-align: left;
+}
+div {text-align: left;}
+</style></p>
+<h1> </h1>
+<p style="text-align: left;">Reading Glasses</p>
+<div> </div>
+
+
+
+
+.sa_owl_theme .owl-item .sa_vert_center_wrap {
+    position: relative;
+    border-radius: 50%;
+	    box-shadow: 0 2px 4px rgba(0,0,0,.2);
+    border: solid white  1.7px;
+line-height: 17px; 
+font-weight:500;
+font-size: 11px;
+width:auto !important;align-content
+}
+	 #wrap .black{
+		padding-bottom:0px !important;
+		height:130px;
+
+}
+}
+jevousaime@1
+
+
+If the product options are displayed but they are not combined into a table.
+
+Check if the browser error console has any error messages.
+
+Check if the page HTML source has any error messages.
+
+
+If the prescription table are no aligned correctly.
+
+You should adjust the CSS styles in the file:
+wp-content/plugins/lenses-prescription/view/frontend/web/main.css
+
+
+
+LENSES PRESCRIPTION
+
+.pofw-product-options-wrapper .field {
+    margin-bottom: 10px;
+    DISPLAY: INLINE-BLOCK;
+
+
